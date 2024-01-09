@@ -1,0 +1,10 @@
+/**/
+.logo-2{
+    position:absolute;
+    top: 0;
+    left:0;
+    font-size: clamp(2rem, 4vw, 4rem);
+}
+.relative{
+    position: relative;
+}
